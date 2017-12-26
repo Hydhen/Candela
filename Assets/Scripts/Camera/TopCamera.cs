@@ -40,7 +40,7 @@ public class TopCamera : MonoBehaviour {
 
     private void FixedUpdate()
     {
-        if (Target != null)
+        if (Target != Vector3.zero)
         {
             // Get new position
             Vector3 newPosition = Target + PositionOffset;
