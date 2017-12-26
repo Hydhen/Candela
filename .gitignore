@@ -7,6 +7,9 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# Paid Assets
+Assets/Rewired*
+
 # Visual Studio 2015 cache directory
 /.vs/
 
